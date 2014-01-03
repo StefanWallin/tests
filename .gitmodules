@@ -1,0 +1,3 @@
+[submodule "jsdoc"]
+	path = jsdoc
+	url = git@github.com:jsdoc3/jsdoc.git
